@@ -1,4 +1,4 @@
-baseurl: "/jekyll-tutorial" 
+baseurl: "/jekyll-tutorial"
 
 collections:
   authors:
@@ -19,3 +19,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+theme: "jekyll-theme-cayman"
